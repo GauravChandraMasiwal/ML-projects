@@ -3,4 +3,9 @@ numpy
 seaborn
 matplotlib
 requests
+scikit-learn
+catboost
+xgboost
+Flask
+dill
 -e .
